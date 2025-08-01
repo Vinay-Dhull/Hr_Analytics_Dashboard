@@ -1,4 +1,4 @@
-# HR Analytics Dashboard 📊
+# HR Analytics Dashboard 
 
 This project presents an interactive and visually compelling **HR Analytics Dashboard**, designed to provide data-driven insights into employee attrition patterns across multiple dimensions such as age, salary, education, gender, department, job role, and tenure.
 
